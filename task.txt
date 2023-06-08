@@ -1,0 +1,17 @@
+Cleanup/documentation
+Cleaned up stable version of pytorch refactored code, deprecate everything else 
+Cleaned up documentation/README for running Netshare
+Detailed instructions for reproducing results from sigcomm 
+Cleaned up metrics library for packet and flow traces
+Support for expressing custom fidelity metrics for hyperparameter tuning 
+More user’s examples (Order of preference)
+Zeek/IDS logs (corelight)
+https://github.com/activecm/rita/
+https://github.com/zeek/zeek/tree/master/testing/btest/Traces
+JPM customer journey traces
+https://drive.google.com/drive/folders/1jezX7YkNYjAx9Q4sODBkOdB9c6Y5ma4-?usp=sharing
+Cyber security events: https://csr.lanl.gov/data/cyber1/
+Microservice logs (MOSIP)
+MISP logs  (ESNET/DoE)
+Cambridge analytics driving traces
+Stretch: Integrated non DG models into Netshare
