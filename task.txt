@@ -11,7 +11,3 @@ https://github.com/zeek/zeek/tree/master/testing/btest/Traces
 JPM customer journey traces
 https://drive.google.com/drive/folders/1jezX7YkNYjAx9Q4sODBkOdB9c6Y5ma4-?usp=sharing
 Cyber security events: https://csr.lanl.gov/data/cyber1/
-Microservice logs (MOSIP)
-MISP logs  (ESNET/DoE)
-Cambridge analytics driving traces
-Stretch: Integrated non DG models into Netshare
