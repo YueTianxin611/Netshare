@@ -26,8 +26,10 @@
                 {
                     "column": "traceid",
                     "type": "string",
-                    "encoding": "word2vec_port"
-                },
+                    "encoding": "word2vec_ip"
+                }
+            ],
+            "timeseries": [
                 {
                     "column": "rpcid",
                     "type": "string",
@@ -47,10 +49,11 @@
                     "column": "dm",
                     "type": "string",
                     "encoding": "categorical"
+                },{
+                    "column": "rt",
+                    "type": "float"
                 }
-            ],
-            "timeseries": [
-               
+
             ]
         }
     },
